@@ -1,7 +1,7 @@
 package algorithm;
 
 public class PalindromeNumber {
-    public boolean isPalindrome(int x) {
+    public boolean isPalindromeOther(int x) {
         if(x<0||x%10==0&&x!=0){
             return false;
         }
