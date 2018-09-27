@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class RomanToInteger {
+    //把给个符号对应的值用hashmap保存
     public int romanToInt(String s) {
         Map<Character,Integer> map=new HashMap<>();
         map.put('I',1);
@@ -16,12 +17,14 @@ public class RomanToInteger {
         if(s==null)return -1;
         int result=0;
         for(int i=0;i<s.length()-1;i++){
+            //如果前一个字符的值大于后一个字符的值
             if(map.get(s.charAt(i))>=map.get(s.charAt(i+1))){
                 result+=map.get(s.charAt(i));
             }else{
                 result-=map.get(s.charAt(i));
             }
         }
+        //加上最后一个字符的值
         result+=map.get(s.charAt(s.length()-1));
         return result;
     }

@@ -25,6 +25,8 @@ public class ValidPalindrome {
         return false;
     }*/
 
+    //好像答案也没有考虑符号不同的问题，符号不同它仍然返回true
+
     public boolean isPalindromeOther1(String s) {
         if (s.isEmpty()) {
             return true;
@@ -61,5 +63,4 @@ public class ValidPalindrome {
         return true;
     }
 
-    //符号即使没有回文也会返回true
 }

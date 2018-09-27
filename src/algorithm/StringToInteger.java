@@ -23,6 +23,8 @@ public class StringToInteger {
         return (int)result*flag;
     }*/
 
+    //这道题目主要是要把前面的空格东西消除，正负号要能判别出来，然后在进行数字的判别取出
+
     //类似的解法
     public static int myAtoi(String str) {
         if (str == null || str.length() == 0)

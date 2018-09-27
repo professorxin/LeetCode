@@ -23,5 +23,4 @@ public class ValidParentheses {
         //使用栈是否空来判断，空的话才是全部对应，并且都取出了
         return stack.isEmpty();
     }
-
 }

@@ -9,8 +9,9 @@ public class ClimbingStairs {
         if(n <= 0) return 0;
         if(n == 1) return 1;
         if(n == 2) return 2;
-
+        //一步之前
         int one_step_before = 2;
+        //两步之前
         int two_steps_before = 1;
         int all_ways = 0;
 
