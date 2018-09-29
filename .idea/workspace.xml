@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e669e2f7-868f-41ab-adc5-8863d23ae994" name="Default" comment="罗马数转成整数">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/IntegerToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/Permutations.java" afterDir="false" />
+    <list default="true" id="e669e2f7-868f-41ab-adc5-8863d23ae994" name="Default" comment="9.27每日算法">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/Subsets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/ClimbingStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/GenerateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/GenerateParentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ImplementStrStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/ImplementStrStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/MergeTwoSortedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/RomanToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/StringToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/StringToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/ValidPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/ValidParentheses.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +17,12 @@
     <session id="-1355368920">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="3" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="3" />
           <entry key="project.open.time.29" value="1" />
@@ -38,67 +30,43 @@
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="57" />
+          <entry key="java" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="57" />
+          <entry key="JAVA" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2190" />
-          <entry key="txt" value="60" />
+          <entry key="java" value="2703" />
+          <entry key="txt" value="70" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2190" />
-          <entry key="PLAIN_TEXT" value="60" />
+          <entry key="JAVA" value="2703" />
+          <entry key="PLAIN_TEXT" value="70" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/Permutations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/ImplementStrStr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/GenerateParentheses.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/Subsets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+            <state relative-caret-position="330">
+              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#263#271#0" expanded="true" />
-                <element signature="e#845#846#0" expanded="true" />
-                <element signature="e#868#869#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -134,6 +102,9 @@
         <option value="$PROJECT_DIR$/src/algorithm/RemoveElement.java" />
         <option value="$PROJECT_DIR$/src/algorithm/Permutations.java" />
         <option value="$PROJECT_DIR$/src/algorithm/GenerateParentheses.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/Pow.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/Demo.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/Subsets.java" />
       </list>
     </option>
   </component>
@@ -157,6 +128,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,15 +153,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538044933130" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538212059523" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../AnyviewStudentServer" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -206,9 +177,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenerateParentheses">
+  <component name="RunManager" selected="Application.Subsets">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Demo" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -229,6 +214,20 @@
     </configuration>
     <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.Permutations" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Subsets" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -288,9 +287,13 @@
       <item itemvalue="Application.ValidPalindrome" />
       <item itemvalue="Application.Permutations" />
       <item itemvalue="Application.GenerateParentheses" />
+      <item itemvalue="Application.Subsets" />
+      <item itemvalue="Application.Demo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Subsets" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.GenerateParentheses" />
         <item itemvalue="Application.Permutations" />
         <item itemvalue="Application.ValidPalindrome" />
@@ -328,7 +331,10 @@
       <workItem from="1537940695877" duration="78000" />
       <workItem from="1537946661524" duration="948000" />
       <workItem from="1537959786028" duration="30000" />
-      <workItem from="1538027598562" duration="7029000" />
+      <workItem from="1538027598562" duration="7261000" />
+      <workItem from="1538106895341" duration="1111000" />
+      <workItem from="1538208964458" duration="744000" />
+      <workItem from="1538209739118" duration="2294000" />
     </task>
     <task id="LOCAL-00001" summary="罗马数转成整数">
       <created>1536583713001</created>
@@ -400,17 +406,31 @@
       <option name="project" value="LOCAL" />
       <updated>1537949307642</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="9.27每日算法">
+      <created>1538045148891</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1538045148891</updated>
+    </task>
+    <task id="LOCAL-00012" summary="9.28每日算法">
+      <created>1538108002144</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1538108002144</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31912000" />
+    <option name="totallyTimeSpent" value="36293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16136919" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16687042" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -419,7 +439,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295964" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -518,7 +538,9 @@
     <MESSAGE value="9.23每日算法" />
     <MESSAGE value="9.25每日算法" />
     <MESSAGE value="9.26每日算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.26每日算法" />
+    <MESSAGE value="9.27每日算法" />
+    <MESSAGE value="9.28每日算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.28每日算法" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/algorithm/MergeTwoSortedLists.java">
@@ -560,9 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -608,6 +627,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/ImplementStrStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/Permutations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -618,22 +644,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/ImplementStrStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/GenerateParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
+        <state relative-caret-position="638">
           <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#263#271#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
-            <element signature="e#868#869#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Pow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Subsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
