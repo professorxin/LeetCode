@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e669e2f7-868f-41ab-adc5-8863d23ae994" name="Default" comment="9.29每日算法">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/AddBinary.java" afterDir="false" />
+    <list default="true" id="e669e2f7-868f-41ab-adc5-8863d23ae994" name="Default" comment="10.3每日算法">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/AddBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_067_Add_Binary/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/ClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_070_Climbing_Stairs/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/CountAndSay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_038_Count_and_Say/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/GenerateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_022_Generate_Parentheses/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/ImplementStrStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_028_Implement_strStr/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/IntegerToRoman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_012_Integer_to_Roman/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_014_Longest_Common_Prefix/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_021_Merge_Two_Sorted_Lists/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_009_Palindrome_Number/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/Permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_046_Permutations/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/Pow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_050_Pow/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_027_Remove_Element/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_013_Roman_to_Integer/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/StringToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_008_String_to_Integer/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/Subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_078_Subsets/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_015_3Sum/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_001_Two_Sum/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_125_Valid_Palindrome/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_020_Valid_Parentheses/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/ValidateBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_098_Validate_Binary_Search_Tree/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,59 +37,52 @@
     <session id="-1355368920">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="25" />
-          <entry key="project.open.time.0" value="4" />
+          <entry key="project.closed" value="36" />
+          <entry key="project.open.time.0" value="8" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="3" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="3" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.29" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.30" value="1" />
-          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.33" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="4" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.open.time.6" value="7" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="67" />
+          <entry key="java" value="155" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="67" />
+          <entry key="JAVA" value="155" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2816" />
-          <entry key="txt" value="71" />
+          <entry key="dummy" value="18" />
+          <entry key="java" value="3185" />
+          <entry key="txt" value="82" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2816" />
-          <entry key="PLAIN_TEXT" value="71" />
+          <entry key="JAVA" value="3185" />
+          <entry key="PLAIN_TEXT" value="100" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/AddBinary.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -102,6 +116,14 @@
         <option value="$PROJECT_DIR$/src/algorithm/Demo.java" />
         <option value="$PROJECT_DIR$/src/algorithm/Subsets.java" />
         <option value="$PROJECT_DIR$/src/algorithm/AddBinary.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/ValidateBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/CountAndSay.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_001_Two_Sum/TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_001_Two_Sum/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_009_Palindrome_Number/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_021_Merge_Two_Sorted_Lists/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_070_Climbing_Stairs/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_125_Valid_Palindrome/Solution.java" />
       </list>
     </option>
   </component>
@@ -111,7 +133,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1022" />
@@ -125,7 +147,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,29 +162,22 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538532100866" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547516885186" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.14985591" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -174,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Subsets">
+  <component name="RunManager" selected="Application.Solution">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -187,7 +204,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.*" />
+          <option name="PATTERN" value="algorithm._001_Two_Sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,13 +212,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenerateParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.GenerateParentheses" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm._038_Count_and_Say.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.*" />
+          <option name="PATTERN" value="algorithm._001_Two_Sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,13 +226,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.Permutations" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm._022_Generate_Parentheses.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.*" />
+          <option name="PATTERN" value="algorithm._001_Two_Sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,13 +240,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.Subsets" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm._046_Permutations.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.*" />
+          <option name="PATTERN" value="algorithm._001_Two_Sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,13 +254,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.ValidPalindrome" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm._078_Subsets.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.*" />
+          <option name="PATTERN" value="algorithm._001_Two_Sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,19 +298,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ValidPalindrome" />
-      <item itemvalue="Application.Permutations" />
-      <item itemvalue="Application.GenerateParentheses" />
-      <item itemvalue="Application.Subsets" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Subsets" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.GenerateParentheses" />
-        <item itemvalue="Application.Permutations" />
-        <item itemvalue="Application.ValidPalindrome" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +350,18 @@
       <workItem from="1538208964458" duration="744000" />
       <workItem from="1538209739118" duration="2962000" />
       <workItem from="1538220207029" duration="191000" />
-      <workItem from="1538532075755" duration="247000" />
+      <workItem from="1538532075755" duration="286000" />
+      <workItem from="1538619976174" duration="2031000" />
+      <workItem from="1538816086961" duration="60000" />
+      <workItem from="1538816563653" duration="228000" />
+      <workItem from="1538816950801" duration="7000" />
+      <workItem from="1538817355764" duration="70000" />
+      <workItem from="1538898034894" duration="521000" />
+      <workItem from="1538902800754" duration="15000" />
+      <workItem from="1541042827426" duration="198000" />
+      <workItem from="1542205961937" duration="1240000" />
+      <workItem from="1542630519124" duration="714000" />
+      <workItem from="1547514990253" duration="1874000" />
     </task>
     <task id="LOCAL-00001" summary="罗马数转成整数">
       <created>1536583713001</created>
@@ -426,16 +454,37 @@
       <option name="project" value="LOCAL" />
       <updated>1538212111899</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="10.3每日算法">
+      <created>1538532348711</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1538532348711</updated>
+    </task>
+    <task id="LOCAL-00015" summary="10.4每日算法">
+      <created>1538622868789</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1538622868789</updated>
+    </task>
+    <task id="LOCAL-00016" summary="10.7每日算法">
+      <created>1538898414124</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1538898414124</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37399000" />
+    <option name="totallyTimeSpent" value="44396000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1705379" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18581907" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -546,121 +595,12 @@
     <MESSAGE value="9.27每日算法" />
     <MESSAGE value="9.28每日算法" />
     <MESSAGE value="9.29每日算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.29每日算法" />
+    <MESSAGE value="10.3每日算法" />
+    <MESSAGE value="10.4每日算法" />
+    <MESSAGE value="10.7每日算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.7每日算法" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/MergeTwoSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/ClimbingStairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/IntegerToRoman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/LongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="76" selection-start-line="30" selection-start-column="76" selection-end-line="30" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/PalindromeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/RomanToInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/StringToInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/ThreeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="58" column="46" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/ValidPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="819">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/ValidParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/RemoveElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/ImplementStrStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Permutations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/GenerateParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#263#271#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -668,37 +608,144 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Pow.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_067_Add_Binary/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Demo.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_038_Count_and_Say/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/Subsets.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_022_Generate_Parentheses/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/AddBinary.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_028_Implement_strStr/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_012_Integer_to_Roman/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_014_Longest_Common_Prefix/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_050_Pow/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_046_Permutations/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_027_Remove_Element/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_008_String_to_Integer/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_078_Subsets/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_098_Validate_Binary_Search_Tree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_015_3Sum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_020_Valid_Parentheses/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_013_Roman_to_Integer/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_001_Two_Sum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_009_Palindrome_Number/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_021_Merge_Two_Sorted_Lists/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_070_Climbing_Stairs/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_125_Valid_Palindrome/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
