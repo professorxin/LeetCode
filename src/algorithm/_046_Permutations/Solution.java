@@ -17,8 +17,7 @@ public class Solution {
     private void backtrack(List<List<Integer>> list, List<Integer> tempList, int [] nums){
         //一个终结条件，也就是满足条件的时候
         if(tempList.size() == nums.length){
-            //全局变量添加一个满足条件的集合(为什么不是list.add(tempList)?)
-            list.add(new ArrayList<>(tempList));
+            //全局变量添加一个满足条件的集合(为什么不是list.add(tempList)?)因为tempList会改变的，需要构建一个ArrayList才行            list.add(new ArrayList<>(tempList));
         } else{
             for(int i = 0; i < nums.length; i++){
                 if(tempList.contains(nums[i])) continue;

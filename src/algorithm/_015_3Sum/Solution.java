@@ -2,7 +2,7 @@ package algorithm._015_3Sum;
 
 import java.util.*;
 
-public class Solution {
+public class  Solution {
     //比较暴力
     public List<List<Integer>> threeSumOther1(int[] nums) {
         List<List<Integer>> res = new ArrayList<List<Integer>>();
