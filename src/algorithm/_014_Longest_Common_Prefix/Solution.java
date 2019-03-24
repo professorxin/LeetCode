@@ -4,28 +4,27 @@ public class Solution {
 
     //计算出strs数组里面的最长前缀
     public String longestCommonPrefix(String[] strs) {
-        if(strs==null||strs.length==0)return "";
-        String result=strs[0];
-        String temp="";
-        for(int i=0;i<strs.length-1;i++){
+        if (strs == null || strs.length == 0) return "";
+        String result = strs[0];
+        String temp = "";
+        for (int i = 0; i < strs.length - 1; i++) {
             //取出较短的字符串的长度，防止越界
-            int length=strs[i].length()>strs[i+1].length()?strs[i+1].length():strs[i].length();
-            for(int j=0;j<length;j++){
+            int length = strs[i].length() > strs[i + 1].length() ? strs[i + 1].length() : strs[i].length();
+            for (int j = 0; j < length; j++) {
                 //如果有不同的字符串结束循环
-                if(strs[i].charAt(j)!=strs[i+1].charAt(j)){
+                if (strs[i].charAt(j) != strs[i + 1].charAt(j)) {
                     break;
-                }else{
-                    temp+=strs[i].charAt(j);
+                } else {
+                    temp += strs[i].charAt(j);
                 }
             }
             //将判断后的前缀赋值给下次字符串的比较
-            strs[i+1]=temp;
-            result=temp;
-            temp="";
+            strs[i + 1] = temp;
+            result = temp;
+            temp = "";
         }
         return result;
     }
-
 
 
     //这个思路就是前把数组第一个字符串当成前缀，再与后面的判断是否有共同前缀，如果没有就对前缀截取，截取到有之后重新对前缀赋值，再进行下一个判断。

@@ -16,7 +16,7 @@ public class Solution {
             else if (c == '[')
                 //将“】”压栈
                 stack.push(']');
-            //取出栈的元素判断是否符合符号
+                //取出栈的元素判断是否符合符号
             else if (stack.isEmpty() || stack.pop() != c)
                 return false;
         }

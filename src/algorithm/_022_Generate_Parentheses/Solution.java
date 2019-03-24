@@ -12,22 +12,22 @@ public class Solution {
         return list;
     }
 
-    public void backtrack(List<String> list, String str, int open, int close, int max){
+    public void backtrack(List<String> list, String str, int open, int close, int max) {
         //结束条件，如果字符串的长度等于max的二倍
-        if(str.length() == max*2){
+        if (str.length() == max * 2) {
             list.add(str);
             return;
         }
         System.out.println(str);
         //如果左括号小于max
-        if(open < max)
-            backtrack(list, str+"(", open+1, close, max);
+        if (open < max)
+            backtrack(list, str + "(", open + 1, close, max);
         //如果右括号大于max
-        if(close < open)
-            backtrack(list, str+")", open, close+1, max);
+        if (close < open)
+            backtrack(list, str + ")", open, close + 1, max);
     }
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         new Solution().generateParenthesisOther(3);
     }
 }
