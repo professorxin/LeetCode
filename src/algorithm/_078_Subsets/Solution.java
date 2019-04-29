@@ -16,7 +16,7 @@ public class Solution {
         //list.add(templist);
         for (int i = start; i < nums.length; i++) {
             templist.add(nums[i]);
-            System.out.println(templist + "------" + i);
+            //System.out.println(templist + "------" + i);
             backtrack(list, templist, nums, i + 1);
             templist.remove(templist.size() - 1);
         }

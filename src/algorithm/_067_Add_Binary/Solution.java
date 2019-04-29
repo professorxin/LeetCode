@@ -1,6 +1,7 @@
 package algorithm._067_Add_Binary;
 
 public class Solution {
+
     //题目描述：给定两个二进制字符串，相加后返回字符串
     public String addBinary(String a, String b) {
         StringBuilder sb = new StringBuilder();

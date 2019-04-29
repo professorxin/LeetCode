@@ -27,6 +27,7 @@ public class Solution {
     }
 
 
+    /*找出字符串数组的最长前缀*/
     //这个思路就是前把数组第一个字符串当成前缀，再与后面的判断是否有共同前缀，如果没有就对前缀截取，截取到有之后重新对前缀赋值，再进行下一个判断。
     public String longestCommonPrefixOther(String[] strs) {
         if (strs.length == 0) return "";

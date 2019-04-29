@@ -50,6 +50,7 @@ public class Solution {
     }
 
 
+    /*找出三个数字相加为0的所有组合*/
     //更好的解法
     public List<List<Integer>> threeSumOther2(int[] num) {
         Arrays.sort(num); //排序,这是很重要的一步

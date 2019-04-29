@@ -30,7 +30,9 @@ public class Solution {
                 stack.push(cur);
                 cur = cur.left;
             }
+            //弹出栈顶的结点
             TreeNode node = stack.pop();
+            //添加结点到集合中
             res.add(node.val);
             //根结点打印完之后，跳到右结点
             cur = node.right;

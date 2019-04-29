@@ -3,7 +3,8 @@ package algorithm._020_Valid_Parentheses;
 import java.util.Stack;
 
 public class Solution {
-    //使用数据结构栈来判别符号是否排列规范
+
+    //使用数据结构栈来判别给定字符串的符号是否排列规范
     public boolean isValidOther(String s) {
         Stack<Character> stack = new Stack<Character>();
         for (char c : s.toCharArray()) {

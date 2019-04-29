@@ -1,6 +1,7 @@
 package algorithm._001_Two_Sum;
 
 public class Solution {
+
     public int[] twoSum(int[] nums, int target) {
         int[] num = new int[2];
         for (int i = 0; i < nums.length; i++) {

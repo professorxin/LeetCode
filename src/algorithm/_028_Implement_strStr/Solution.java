@@ -1,6 +1,7 @@
 package algorithm._028_Implement_strStr;
 
 public class Solution {
+
     //判断字符串s是否包含了字符串t
     public int strStrOther(String s, String t) {
         if (t.isEmpty()) return 0;

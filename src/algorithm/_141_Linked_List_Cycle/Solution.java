@@ -12,6 +12,7 @@ public class Solution {
         }
     }
 
+    /*判断链表有无环*/
     //定义两个指针，一个指针指向头指针，一次走一步，一个指针指向头指针下一个，一次走两步。如果指针能相等说明有环。如果为空则无环
     public boolean hasCycle(ListNode head) {
         if (head == null) {

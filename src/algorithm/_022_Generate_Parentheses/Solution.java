@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Solution {
-    //回溯算法，这个不算特别能理解
+    /*给定n双括号，返回括号的所有符合规范的组合*/
+    //回溯算法
     //类似于深度优先算法，先递归走到最底层，再递归返回，再去寻找
     public List<String> generateParenthesisOther(int n) {
         List<String> list = new ArrayList<String>();
@@ -18,7 +19,6 @@ public class Solution {
             list.add(str);
             return;
         }
-        System.out.println(str);
         //如果左括号小于max
         if (open < max)
             backtrack(list, str + "(", open + 1, close, max);
