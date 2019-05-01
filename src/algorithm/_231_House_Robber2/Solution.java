@@ -10,6 +10,7 @@ public class Solution {
             return 0;
         if (length == 1)
             return nums[0];
+        //抢劫第一间（也可能不抢）+不抢劫第一间
         return Math.max(rob(nums, 0, length - 2), rob(nums, 1, length - 1));
     }
 
