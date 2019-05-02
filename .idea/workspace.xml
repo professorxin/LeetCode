@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e669e2f7-868f-41ab-adc5-8863d23ae994" name="Default" comment="10.3每日算法">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/_148_Sort_List/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/_235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/_236_Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/_697_Degree_of_an_Array/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/_739_Daily_Temperatures/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_231_House_Robber2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_231_House_Robber2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_347_Top_K_Frequent_Elements/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_347_Top_K_Frequent_Elements/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +16,7 @@
     <session id="-1355368920">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="94" />
+          <entry key="project.closed" value="95" />
           <entry key="project.open.time.0" value="25" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.15" value="2" />
@@ -30,7 +25,7 @@
           <entry key="project.open.time.23" value="4" />
           <entry key="project.open.time.24" value="8" />
           <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.26" value="9" />
+          <entry key="project.open.time.26" value="10" />
           <entry key="project.open.time.27" value="5" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.29" value="1" />
@@ -44,31 +39,31 @@
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="10" />
           <entry key="project.open.time.7" value="5" />
-          <entry key="project.opened" value="95" />
+          <entry key="project.opened" value="96" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="3" />
-          <entry key="java" value="374" />
+          <entry key="java" value="375" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="374" />
+          <entry key="JAVA" value="375" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="18" />
-          <entry key="java" value="10103" />
+          <entry key="java" value="10384" />
           <entry key="txt" value="82" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10103" />
+          <entry key="JAVA" value="10384" />
           <entry key="PLAIN_TEXT" value="100" />
         </counts>
       </usages-collector>
@@ -76,11 +71,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithm/_236_Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="528">
+              <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+              <folding>
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/_739_Daily_Temperatures/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding>
+                <element signature="e#154#163#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,7 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/test/test.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_455_Assign_Cookies/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_144_Binary_Tree_Preorder_Traversal/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_145_Binary_Tree_Postorder_Traversal/Solution.java" />
@@ -158,6 +168,7 @@
         <option value="$PROJECT_DIR$/src/algorithm/_697_Degree_of_an_Array/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_236_Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_739_Daily_Temperatures/Solution.java" />
       </list>
     </option>
   </component>
@@ -222,8 +233,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -231,7 +242,7 @@
     <property name="SearchEverywhereHistoryKey" value="executor&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;RecursiveTask&#9;PSI&#9;JAVA://java.util.concurrent.RecursiveTask&#10;Lock&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Coun&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/CountDownLatch.java&#10;Conditio&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;ConcurrentSk&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentSkipListMap&#10;Semaphore&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/Semaphore.java&#10;Concu&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Sem&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;Reen&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/java/util/concurrent/locks/ReentrantLock.class&#10;CountDownLatch&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556703059105" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556790949961" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -479,7 +490,8 @@
       <workItem from="1556503321066" duration="13767000" />
       <workItem from="1556546970364" duration="1528000" />
       <workItem from="1556602411415" duration="1211000" />
-      <workItem from="1556694428430" duration="4194000" />
+      <workItem from="1556694428430" duration="5704000" />
+      <workItem from="1556788366518" duration="1065000" />
     </task>
     <task id="LOCAL-00001" summary="罗马数转成整数">
       <created>1536583713001</created>
@@ -597,7 +609,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188027000" />
+    <option name="totallyTimeSpent" value="190602000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -612,7 +624,7 @@
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26100245" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26405868" />
       <window_info id="Structure" order="1" weight="0.16381419" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -626,7 +638,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295964" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.25672644" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.25560537" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.4573991" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -699,13 +711,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="10.7每日算法" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_008_String_to_Integer/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1138">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/_009_Palindrome_Number/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -1066,8 +1071,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/_236_Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="528">
+          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+          <folding>
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_739_Daily_Temperatures/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="e#154#163#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
