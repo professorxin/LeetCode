@@ -2,45 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e669e2f7-868f-41ab-adc5-8863d23ae994" name="Default" comment="10.3每日算法">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/_002_Add_Two_Numbers/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/_005_Longest_Palindromic_Substring/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/_019_Remove_Nth_Node_From_End_of_List/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/_023_Merge_k_Sorted_Lists/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/_049_Group_Anagrams/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_001_Two_Sum/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_001_Two_Sum/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_003_Longest_Substring_Without_Repeating_Characters/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_003_Longest_Substring_Without_Repeating_Characters/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_021_Merge_Two_Sorted_Lists/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_021_Merge_Two_Sorted_Lists/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_028_Implement_strStr/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_028_Implement_strStr/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_039_Combination_Sum/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_039_Combination_Sum/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_077_Combinations/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_077_Combinations/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_078_Subsets/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_078_Subsets/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_198_House_Robber/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_198_House_Robber/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_231_House_Robber2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_231_House_Robber2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_347_Top_K_Frequent_Elements/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_347_Top_K_Frequent_Elements/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_494_Target_Sum/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_494_Target_Sum/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_518_Coin_Change_2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_518_Coin_Change_2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_543_Diameter_of_Binary_Tree/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_543_Diameter_of_Binary_Tree/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_605_Can_Place_Flowers/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_605_Can_Place_Flowers/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_763_Partition_Labels/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_763_Partition_Labels/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_002_Add_Two_Numbers/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/algorithm/_002_Add_Two_Numbers/Solution.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/algorithm/test/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/algorithm/test/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_001_Two_Sum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_001_Two_Sum/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_003_Longest_Substring_Without_Repeating_Characters/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_003_Longest_Substring_Without_Repeating_Characters/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_011_Container_With_Most_Water/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_011_Container_With_Most_Water/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_021_Merge_Two_Sorted_Lists/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_021_Merge_Two_Sorted_Lists/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_028_Implement_strStr/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_028_Implement_strStr/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_039_Combination_Sum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_039_Combination_Sum/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_040_Combination_Sum_ll/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_040_Combination_Sum_ll/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_050_Pow/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_050_Pow/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_077_Combinations/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_077_Combinations/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_078_Subsets/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_078_Subsets/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_098_Validate_Binary_Search_Tree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_098_Validate_Binary_Search_Tree/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_198_House_Robber/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_198_House_Robber/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_236_Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_236_Lowest_Common_Ancestor_of_a_Binary_Tree/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_287_Find_the_Duplicate_Number/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_287_Find_the_Duplicate_Number/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_455_Assign_Cookies/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_455_Assign_Cookies/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_494_Target_Sum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_494_Target_Sum/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_518_Coin_Change_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_518_Coin_Change_2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_543_Diameter_of_Binary_Tree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_543_Diameter_of_Binary_Tree/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_605_Can_Place_Flowers/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_605_Can_Place_Flowers/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_739_Daily_Temperatures/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_739_Daily_Temperatures/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/_763_Partition_Labels/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_763_Partition_Labels/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/algorithm/test/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/test/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -85,25 +54,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="3" />
-          <entry key="java" value="555" />
+          <entry key="java" value="561" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="555" />
+          <entry key="JAVA" value="561" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="18" />
-          <entry key="java" value="11234" />
+          <entry key="java" value="11765" />
           <entry key="txt" value="82" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11234" />
+          <entry key="JAVA" value="11765" />
           <entry key="PLAIN_TEXT" value="100" />
         </counts>
       </usages-collector>
@@ -112,10 +81,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/_002_Add_Two_Numbers/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/_049_Group_Anagrams/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="88">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -142,10 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/_322_Coin_Change/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/_460_LFU_Cache/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/_460_LFU_Cache/LFUCache.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/_406_Queue_Reconstruction_by_Height/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_435_Non_overlapping_Intervals/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_452_Minimum_Number_of_Arrows_to_Burst_Balloons/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_377_Combination_Sum_IV/Solution.java" />
@@ -184,7 +149,6 @@
         <option value="$PROJECT_DIR$/src/algorithm/_077_Combinations/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_050_Pow/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_003_Longest_Substring_Without_Repeating_Characters/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/test/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_021_Merge_Two_Sorted_Lists/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_028_Implement_strStr/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_040_Combination_Sum_ll/Solution.java" />
@@ -193,6 +157,11 @@
         <option value="$PROJECT_DIR$/src/algorithm/_098_Validate_Binary_Search_Tree/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_001_Two_Sum/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_002_Add_Two_Numbers/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/test/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_005_Longest_Palindromic_Substring/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_019_Remove_Nth_Node_From_End_of_List/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_023_Merge_k_Sorted_Lists/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_049_Group_Anagrams/Solution.java" />
       </list>
     </option>
   </component>
@@ -253,6 +222,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="_003_Longest_Substring_Without_Repeating_Characters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="_005_Longest_Palindromic_Substring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -644,7 +620,7 @@
     <property name="SearchEverywhereHistoryKey" value="executor&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;RecursiveTask&#9;PSI&#9;JAVA://java.util.concurrent.RecursiveTask&#10;Lock&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Coun&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/CountDownLatch.java&#10;Conditio&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;ConcurrentSk&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentSkipListMap&#10;Semaphore&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/Semaphore.java&#10;Concu&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Sem&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;Reen&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/java/util/concurrent/locks/ReentrantLock.class&#10;CountDownLatch&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557459791999" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557499585470" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../SwordOffer" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -664,7 +640,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (5)">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -779,10 +755,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
@@ -905,7 +881,7 @@
       <workItem from="1557289595488" duration="5102000" />
       <workItem from="1557324836638" duration="812000" />
       <workItem from="1557373268268" duration="1786000" />
-      <workItem from="1557452321832" duration="2371000" />
+      <workItem from="1557452321832" duration="11793000" />
     </task>
     <task id="LOCAL-00001" summary="罗马数转成整数">
       <created>1536583713001</created>
@@ -1023,7 +999,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="232103000" />
+    <option name="totallyTimeSpent" value="241525000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1047,7 +1023,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.17713004" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17713004" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910313" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1125,48 +1101,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="10.7每日算法" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_039_Combination_Sum/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_040_Combination_Sum_ll/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_046_Permutations/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_050_Pow/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_067_Add_Binary/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_070_Climbing_Stairs/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/_072_Edit_Distance/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -1483,8 +1417,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/_002_Add_Two_Numbers/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="464">
+          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/test/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_005_Longest_Palindromic_Substring/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_019_Remove_Nth_Node_From_End_of_List/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_023_Merge_k_Sorted_Lists/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_049_Group_Anagrams/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
