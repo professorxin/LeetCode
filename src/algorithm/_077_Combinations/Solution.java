@@ -5,6 +5,7 @@ import java.util.List;
 
 public class Solution {
 
+    /*给定两个整数 n 和 k，返回 1 ... n 中所有可能的 k 个数的组合。*/
     public List<List<Integer>> combine(int n, int k) {
         List<List<Integer>> resultList = new ArrayList<>();
         List<Integer> combineList = new ArrayList<>();

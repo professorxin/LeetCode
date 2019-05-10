@@ -16,7 +16,10 @@ public class Solution {
         }
     }
 
+    //todo
+
     //题目描述：验证是否满足二叉搜索树，左结点小于根节点，右节点大于根节点
+    //借助了中序遍历
     public boolean isValidBST(TreeNode root) {
         if (root == null) return true;
         TreeNode pre = null;

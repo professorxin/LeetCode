@@ -9,8 +9,7 @@ public class Solution {
         TreeNode(int x) { val = x; }
     }
 
-    /*任意两节点的最长路径*/
-
+    /*二叉树中任意两节点的最长路径*/
 
     //定义一个初始的最大值
     private int max = 0;

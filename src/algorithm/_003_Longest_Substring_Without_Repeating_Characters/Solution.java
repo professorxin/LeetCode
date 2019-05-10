@@ -47,13 +47,13 @@ public class Solution {
             pre = Math.max(pre, nums[s.charAt(i)]);
             //更新数组中字符的值，值就是它的位置
             nums[s.charAt(i)] = i;
-            //跟新长度
+            //更新长度
             len = Math.max(len, i - pre);
         }
         return len;
     }
 
     public static void main(String[] args) {
-        System.out.println(new Solution().lengthOfLongestSubstring("abcdc"));
+        System.out.println(new Solution().lengthOfLongestSubstring("abcdcefg"));
     }
 }

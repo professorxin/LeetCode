@@ -5,10 +5,13 @@ import java.util.List;
 
 public class Solution {
 
-    /*分隔字符串使同种字符出现在一起*/
+    /*字符串 S 由小写字母组成。我们要把这个字符串划分为尽可能多的片段，
+    同一个字母只会出现在其中的一个片段。返回一个表示每个字符串片段的长度的列表。*/
+
     public List<Integer> partitionLabels(String S) {
         //建立一个桶数组保存每个字母最后出现的位置
         int[] lastIndexOfChar = new int[26];
+        //遍历更新桶数组的值
         for (int i = 0; i < S.length(); i++) {
             lastIndexOfChar[charIndex(S.charAt(i))] = i;
         }

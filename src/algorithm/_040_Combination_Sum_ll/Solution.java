@@ -14,22 +14,22 @@ public class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
         List<List<Integer>> combinations = new ArrayList<>();
         Arrays.sort(candidates);
-        backtrack(combinations,new ArrayList<Integer>(),0,target,candidates);
+        backtrack(combinations, new ArrayList<Integer>(), 0, target, candidates);
         return combinations;
     }
 
-    public void backtrack(List<List<Integer>> combinations,List<Integer> combination,int start,int target,int[] candidates){
-        if(target == 0){
-            if(!combinations.contains(combination)){
+    public void backtrack(List<List<Integer>> combinations, List<Integer> combination, int start, int target, int[] candidates) {
+        if (target == 0) {
+            if (!combinations.contains(combination)) {
                 combinations.add(new ArrayList<>(combination));
             }
             return;
         }
-        for(int i = start;i < candidates.length;i++){
-            if(candidates[i] <= target){
+        for (int i = start; i < candidates.length; i++) {
+            if (candidates[i] <= target) {
                 combination.add(candidates[i]);
-                backtrack(combinations,combination,i+1,target-candidates[i],candidates);
-                combination.remove(combination.size()-1);
+                backtrack(combinations, combination, i + 1, target - candidates[i], candidates);
+                combination.remove(combination.size() - 1);
             }
         }
     }

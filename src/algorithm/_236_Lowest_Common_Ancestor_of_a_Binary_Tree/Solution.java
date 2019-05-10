@@ -15,7 +15,7 @@ public class Solution {
     /*普通二叉树的最近公共祖先*/
     //后序遍历二叉树，左子树和右子树分别搜索
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        //
+        //终止条件
         if (root == null || root == p || root == q) {
             return root;
         }

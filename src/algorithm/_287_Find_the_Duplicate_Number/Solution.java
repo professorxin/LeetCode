@@ -8,6 +8,7 @@ public class Solution {
     public int findDuplicate(int[] nums) {
         //定义最小值1，最大值n
         int l = 1, h = nums.length - 1;
+        //这个l和h代表的不是边界，而是值
         while (l <= h) {
             //计算出中间值
             int mid = l + (h - l) / 2;

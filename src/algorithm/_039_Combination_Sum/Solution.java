@@ -23,17 +23,17 @@ public class Solution {
             //如果数组的数字小于目标，则加入组合中
             if (candidates[i] <= target) {
                 combination.add(candidates[i]);
-                System.out.println("回溯前："+combination);
+                //System.out.println("回溯前："+combination);
                 //回溯的时候target变成target-数组的元素
                 backtrack(combinations, combination, i, target - candidates[i], candidates);
                 //移除组合的最后一个数，达到回溯
-                System.out.println("回溯后："+combination);
+                //System.out.println("回溯后："+combination);
                 combination.remove(combination.size() - 1);
             }
         }
     }
 
     public static void main(String[] args) {
-        new Solution().combinationSum(new int[]{2,3,6,7}, 7);
+        new Solution().combinationSum(new int[]{2, 3, 6, 7}, 7);
     }
 }

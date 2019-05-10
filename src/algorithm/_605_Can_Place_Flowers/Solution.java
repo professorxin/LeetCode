@@ -1,6 +1,7 @@
 package algorithm._605_Can_Place_Flowers;
 
 public class Solution {
+
     /*给定一个数组，数组里面1表示种了花朵，0表示没有种。看能否种下n朵花，要求种的花不能相邻*/
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
         int len = flowerbed.length;
