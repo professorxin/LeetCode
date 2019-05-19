@@ -13,6 +13,6 @@ public class Solution {
         //System.out.println(str.indexOf(temp));
         //str = str.substring(0, str.length()-1);
         //System.out.println(str);
-        System.out.println(new Solution().size < 3);
+        System.out.println('A');
     }
 }
