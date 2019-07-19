@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e669e2f7-868f-41ab-adc5-8863d23ae994" name="Default" comment="7.17">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/_153_Find_Minimum_in_Rotated_Sorted_Array/Solution.java" afterDir="false" />
+    <list default="true" id="e669e2f7-868f-41ab-adc5-8863d23ae994" name="Default" comment="7.19">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/_199_Binary_Tree_Right_Side_View/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/_222_Count_Complete_Tree_Nodes/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -55,26 +56,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="3" />
-          <entry key="java" value="593" />
+          <entry key="java" value="595" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="593" />
+          <entry key="JAVA" value="595" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="18" />
-          <entry key="java" value="14548" />
-          <entry key="txt" value="99" />
+          <entry key="java" value="14677" />
+          <entry key="txt" value="100" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14548" />
-          <entry key="PLAIN_TEXT" value="117" />
+          <entry key="JAVA" value="14677" />
+          <entry key="PLAIN_TEXT" value="118" />
         </counts>
       </usages-collector>
     </session>
@@ -82,10 +83,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/_153_Find_Minimum_in_Rotated_Sorted_Array/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/_199_Binary_Tree_Right_Side_View/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="528">
+              <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,8 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/_148_Sort_List/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/_697_Degree_of_an_Array/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_328_Odd_Even_Linked_List/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_084_Largest_Rectangle_in_Histogram/Solution.java" />
@@ -163,6 +165,8 @@
         <option value="$PROJECT_DIR$/src/algorithm/_771_Jewels_and_Stones/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_124_Binary_Tree_Maximum_Path_Sum/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_153_Find_Minimum_in_Rotated_Sorted_Array/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_222_Count_Complete_Tree_Nodes/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_199_Binary_Tree_Right_Side_View/Solution.java" />
       </list>
     </option>
   </component>
@@ -649,7 +653,7 @@
     <property name="SearchEverywhereHistoryKey" value="executor&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;RecursiveTask&#9;PSI&#9;JAVA://java.util.concurrent.RecursiveTask&#10;Lock&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Coun&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/CountDownLatch.java&#10;Conditio&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;ConcurrentSk&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentSkipListMap&#10;Semaphore&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/Semaphore.java&#10;Concu&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Sem&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;Reen&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/java/util/concurrent/locks/ReentrantLock.class&#10;CountDownLatch&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563510085584" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563540371257" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../SwordOffer" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -935,7 +939,7 @@
       <workItem from="1563009208577" duration="3593000" />
       <workItem from="1563198495025" duration="831000" />
       <workItem from="1563265080357" duration="1841000" />
-      <workItem from="1563500359033" duration="2258000" />
+      <workItem from="1563500359033" duration="6792000" />
     </task>
     <task id="LOCAL-00001" summary="罗马数转成整数">
       <created>1536583713001</created>
@@ -1105,11 +1109,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563296446297</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="7.19">
+      <created>1563510505162</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1563510505162</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="292674000" />
+    <option name="totallyTimeSpent" value="297208000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1213,23 +1224,10 @@
     <MESSAGE value="7.11" />
     <MESSAGE value="7.13" />
     <MESSAGE value="7.17" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.17" />
+    <MESSAGE value="7.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.19" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_377_Combination_Sum_IV/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_322_Coin_Change/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/_416_Partition_Equal_Subset_Sum/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -1575,8 +1573,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/_153_Find_Minimum_in_Rotated_Sorted_Array/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="396">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_222_Count_Complete_Tree_Nodes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_199_Binary_Tree_Right_Side_View/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
