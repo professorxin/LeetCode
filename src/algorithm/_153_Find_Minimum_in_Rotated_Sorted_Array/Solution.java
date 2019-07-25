@@ -8,6 +8,23 @@ public class Solution {
     public int findMin(int[] nums) {
         int start = 0, end = nums.length - 1;
         while (start < end) {
+            int mid = (start + end) / 2;
+            //最小值在右区间
+            if (nums[mid] > nums[end]) {
+                start = mid + 1;
+            } else {
+                //最小值在左区间，包含mid，所以直接赋值为mid的位置
+                end = mid;
+            }
+        }
+        return nums[start];
+    }
+
+
+    //利用二分查找
+    public int findMin1(int[] nums) {
+        int start = 0, end = nums.length - 1;
+        while (start < end) {
             //如果start的数组值小于end的数组值，那么证明是升序的，直接返回start的数组值
             if (nums[start] < nums[end]) {
                 return nums[start];
