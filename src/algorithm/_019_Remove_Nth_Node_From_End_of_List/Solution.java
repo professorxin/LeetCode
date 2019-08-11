@@ -9,7 +9,8 @@ public class Solution {
     }
 
 
-    /*删除倒数第n个节点*/
+    /*删除链表倒数第n个节点*/
+
     public ListNode removeNthFromEnd(ListNode head, int n) {
         //构造一个节点，并让它连接首节点，很关键
         ListNode start = new ListNode(0);

@@ -15,6 +15,7 @@ public class Solution {
 
 
     /*合并多个已经排好序的链表*/
+
     public ListNode mergeKLists(ListNode[] lists) {
         if (lists == null || lists.length == 0) {
             return null;

@@ -18,7 +18,7 @@ public class Solution {
 
 
     //输入范围为1-3999，直接把数拆解，再从数组取值
-    public static String intToRomanOther2(int num) {
+    public static String intToRomanOther1(int num) {
         String M[] = {"", "M", "MM", "MMM"};
         String C[] = {"", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"};
         String X[] = {"", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"};
