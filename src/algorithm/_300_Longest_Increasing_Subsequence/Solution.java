@@ -3,6 +3,7 @@ package algorithm._300_Longest_Increasing_Subsequence;
 public class Solution {
 
     /*求数组的最长递增子序列，子序列可以不连续的*/
+
     //使用动态规划求解，dp[n]表示以n结尾的最长递增子序列
     public int lengthOfLIS(int[] nums) {
         int length = nums.length;
