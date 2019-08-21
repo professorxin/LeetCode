@@ -22,7 +22,7 @@ public class Solution {
             int lastIndex = firstIndex;
             for (int i = firstIndex; i < S.length() && i <= lastIndex; i++) {
                 int index = lastIndexOfChar[charIndex(S.charAt(i))];
-                //如果有字母的边界现在的边界，重新更新最后的边界
+                //如果有字母的边界大于现在的边界，重新更新最后的边界
                 if (index > lastIndex) {
                     lastIndex = index;
                 }
@@ -36,5 +36,9 @@ public class Solution {
 
     private int charIndex(char c) {
         return c - 'a';
+    }
+
+    public static void main(String[] args) {
+        System.out.println(new Solution().partitionLabels("abcdfabjkl"));
     }
 }
