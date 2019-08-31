@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e669e2f7-868f-41ab-adc5-8863d23ae994" name="Default" comment="8.26">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/_547_Friend_Circles/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/_695_Max_Area_of_Island/Solution.java" afterDir="false" />
+    <list default="true" id="e669e2f7-868f-41ab-adc5-8863d23ae994" name="Default" comment="8.28">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/_101_Symmetric_Tree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/_206_Reverse_Linked_List/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,8 +17,8 @@
     <session id="-1355368920">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="170" />
-          <entry key="project.open.time.0" value="36" />
+          <entry key="project.closed" value="172" />
+          <entry key="project.open.time.0" value="37" />
           <entry key="project.open.time.1" value="13" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="2" />
@@ -36,7 +36,7 @@
           <entry key="project.open.time.27" value="7" />
           <entry key="project.open.time.28" value="2" />
           <entry key="project.open.time.29" value="3" />
-          <entry key="project.open.time.3" value="8" />
+          <entry key="project.open.time.3" value="9" />
           <entry key="project.open.time.30" value="2" />
           <entry key="project.open.time.33" value="3" />
           <entry key="project.open.time.34" value="1" />
@@ -53,13 +53,13 @@
           <entry key="project.open.time.7" value="7" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="171" />
+          <entry key="project.opened" value="173" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
-          <entry key="java" value="832" />
+          <entry key="java" value="835" />
           <entry key="png" value="1" />
         </counts>
       </usages-collector>
@@ -67,45 +67,26 @@
         <counts>
           <entry key="CLASS" value="4" />
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="832" />
+          <entry key="JAVA" value="835" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="18" />
-          <entry key="java" value="24312" />
-          <entry key="txt" value="134" />
+          <entry key="java" value="24456" />
+          <entry key="txt" value="136" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="24312" />
-          <entry key="PLAIN_TEXT" value="152" />
+          <entry key="JAVA" value="24456" />
+          <entry key="PLAIN_TEXT" value="154" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/_695_Max_Area_of_Island/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/_547_Friend_Circles/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -135,8 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/_034_Find_First_and_Last_Position_of_Element_in_Sorted_Array/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/_096_Unique_Binary_Search_Trees/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_647_Palindromic_Substrings/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_169_Majority_Element/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_617_Merge_Two_Binary_Trees/Solution.java" />
@@ -186,6 +165,8 @@
         <option value="$PROJECT_DIR$/src/algorithm/_287_Find_the_Duplicate_Number/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_695_Max_Area_of_Island/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_547_Friend_Circles/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_101_Symmetric_Tree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_206_Reverse_Linked_List/Solution.java" />
       </list>
     </option>
   </component>
@@ -209,9 +190,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,25 +210,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="_287_Find_the_Duplicate_Number" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Object&#9;PSI&#9;JAVA://java.lang.Object&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Lock&#9;PSI&#9;JAVA://java.util.concurrent.locks.Lock&#10;comparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Compara&#9;PSI&#9;JAVA://java.lang.Comparable&#10;executor&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;RecursiveTask&#9;PSI&#9;JAVA://java.util.concurrent.RecursiveTask&#10;Coun&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/CountDownLatch.java&#10;Conditio&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;ConcurrentSk&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentSkipListMap&#10;Semaphore&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/Semaphore.java&#10;Concu&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Sem&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;Reen&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/java/util/concurrent/locks/ReentrantLock.class&#10;CountDownLatch&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566980845869" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SwordOffer" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567266192838" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.14985591" />
@@ -576,14 +550,9 @@
       <workItem from="1566749898663" duration="1584000" />
       <workItem from="1566785657789" duration="3830000" />
       <workItem from="1566871792334" duration="3822000" />
-      <workItem from="1566963588218" duration="3073000" />
-    </task>
-    <task id="LOCAL-00006" summary="罗马数转成整数">
-      <created>1537443781893</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1537443781893</updated>
+      <workItem from="1566963588218" duration="3353000" />
+      <workItem from="1567238381303" duration="11000" />
+      <workItem from="1567259920332" duration="3919000" />
     </task>
     <task id="LOCAL-00007" summary="9.22每日算法">
       <created>1537622921269</created>
@@ -921,11 +890,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566790405007</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="8.28">
+      <created>1566981092621</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1566981092622</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="456584000" />
+    <option name="totallyTimeSpent" value="460794000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -938,9 +914,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27680966" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22453083" />
       <window_info id="Structure" order="1" weight="0.16353887" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1043,7 +1018,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="7.6" />
     <MESSAGE value="7.11" />
     <MESSAGE value="7.13" />
     <MESSAGE value="7.17" />
@@ -1068,23 +1042,10 @@
     <MESSAGE value="8.21" />
     <MESSAGE value="8.25" />
     <MESSAGE value="8.26" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.26" />
+    <MESSAGE value="8.28" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.28" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_347_Top_K_Frequent_Elements/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_377_Combination_Sum_IV/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/_392_Is_Subsequence/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -1357,13 +1318,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_287_Find_the_Duplicate_Number/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/AbstractSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
@@ -1380,15 +1334,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/_695_Max_Area_of_Island/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
+        <state relative-caret-position="308">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/_547_Friend_Circles/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="418">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_101_Symmetric_Tree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_206_Reverse_Linked_List/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_287_Find_the_Duplicate_Number/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
         </state>
       </provider>
     </entry>
