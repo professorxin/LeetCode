@@ -4,7 +4,7 @@ public class Solution {
 
     /*求数组的最长递增子序列，子序列可以不连续的*/
 
-    //使用动态规划求解，dp[n]表示以n结尾的最长递增子序列
+    //使用动态规划求解，dp[n]表示以n结尾的最长递增子序列，时间复杂度O（n2）
     public int lengthOfLIS(int[] nums) {
         int length = nums.length;
         int[] dp = new int[length];
@@ -27,4 +27,6 @@ public class Solution {
         }
         return result;
     }
+
+
 }
