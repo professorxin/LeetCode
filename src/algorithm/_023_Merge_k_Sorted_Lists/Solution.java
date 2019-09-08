@@ -1,5 +1,7 @@
 package algorithm._023_Merge_k_Sorted_Lists;
 
+import java.util.Arrays;
+import java.util.Comparator;
 import java.util.PriorityQueue;
 
 public class Solution {
@@ -41,5 +43,9 @@ public class Solution {
             }
         }
         return start.next;
+    }
+
+    public static void main(String[] args) {
+
     }
 }

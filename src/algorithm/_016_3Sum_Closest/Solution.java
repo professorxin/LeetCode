@@ -6,6 +6,7 @@ public class Solution {
 
 
     /*找到最接近目标值的三个数的总和，返回该目标值*/
+
     public int threeSumClosest(int[] nums, int target) {
         //第一种三个数的总和
         int result = nums[0] + nums[1] + nums[nums.length - 1];

@@ -5,7 +5,10 @@ import java.util.List;
 
 public class Solution {
 
-    //题目描述：Given a collection of distinct integers, return all possible permutations.（给定一组不同的整数，返回其所有的可能组合）
+    //题目描述：Given a collection of distinct integers, return all possible permutations.
+    // （给定一组不同的整数，返回其所有的可能组合）
+
+
     public List<List<Integer>> permute(int[] nums) {
         //一个全局变量，用于保存所有集合
         List<List<Integer>> list = new ArrayList<>();

@@ -15,16 +15,14 @@ public class Solution {
     /*判断链表有无环*/
     //定义两个指针，一个指针指向头指针，一次走一步，一个指针指向头指针下一个，一次走两步。如果指针能相等说明有环。如果为空则无环
     public boolean hasCycle(ListNode head) {
-        if (head == null) {
-            return false;
-        }
-        ListNode p1 = head, p2 = head.next;
-        while (p1 != null && p2 != null && p2.next != null) {
-            if (p1 == p2) {
+        if (head == null) return false;
+        ListNode slow = head, fast = head;
+        while (fast != null && fast.next != null) {
+            fast = fast.next.next;
+            slow = slow.next;
+            if (fast == slow) {
                 return true;
             }
-            p1 = p1.next;
-            p2 = p2.next.next;
         }
         return false;
     }
