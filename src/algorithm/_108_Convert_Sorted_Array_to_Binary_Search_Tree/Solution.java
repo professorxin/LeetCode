@@ -11,6 +11,7 @@ public class Solution {
 
 
     /*给定一个升序的数组，构建成一个高度平衡的二叉查找树*/
+
     public TreeNode sortedArrayToBST(int[] nums) {
         if(nums == null || nums.length == 0){
             return null;
@@ -23,9 +24,12 @@ public class Solution {
         if(start > end){
             return null;
         }
+        //找出位于中间的结点
         int mid = (start + end)/2;
         TreeNode node = new TreeNode(nums[mid]);
+        //左边去构建左子树
         node.left = helper(nums,start,mid-1);
+        //右边去构建右子树
         node.right = helper(nums,mid+1,end);
         return node;
     }
