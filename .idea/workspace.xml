@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e669e2f7-868f-41ab-adc5-8863d23ae994" name="Default" comment="9.10">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/_413_Arithmetic_Slices/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/_007_Reverse_Integer/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,8 +16,8 @@
     <session id="-1355368920">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="186" />
-          <entry key="project.open.time.0" value="41" />
+          <entry key="project.closed" value="189" />
+          <entry key="project.open.time.0" value="42" />
           <entry key="project.open.time.1" value="14" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="2" />
@@ -28,8 +28,8 @@
           <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.209" value="1" />
-          <entry key="project.open.time.22" value="3" />
-          <entry key="project.open.time.23" value="10" />
+          <entry key="project.open.time.22" value="4" />
+          <entry key="project.open.time.23" value="11" />
           <entry key="project.open.time.24" value="12" />
           <entry key="project.open.time.25" value="8" />
           <entry key="project.open.time.26" value="14" />
@@ -55,13 +55,13 @@
           <entry key="project.open.time.7" value="7" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="187" />
+          <entry key="project.opened" value="190" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
-          <entry key="java" value="921" />
+          <entry key="java" value="922" />
           <entry key="png" value="1" />
         </counts>
       </usages-collector>
@@ -69,40 +69,31 @@
         <counts>
           <entry key="CLASS" value="4" />
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="921" />
+          <entry key="JAVA" value="922" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="27" />
-          <entry key="java" value="30363" />
+          <entry key="java" value="30488" />
           <entry key="txt" value="158" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="30363" />
+          <entry key="JAVA" value="30488" />
           <entry key="PLAIN_TEXT" value="185" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/_583_Delete_Operation_for_Two_Strings/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/_413_Arithmetic_Slices/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/_007_Reverse_Integer/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            <state relative-caret-position="304">
+              <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -142,7 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/test.java" />
         <option value="$PROJECT_DIR$/src/test/Main.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_202_Happy_Number/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_215_Kth_Largest_Element_in_an_Array/Solution.java" />
@@ -193,6 +183,7 @@
         <option value="$PROJECT_DIR$/src/algorithm/_108_Convert_Sorted_Array_to_Binary_Search_Tree/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_583_Delete_Operation_for_Two_Strings/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_413_Arithmetic_Slices/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_007_Reverse_Integer/Solution.java" />
       </list>
     </option>
   </component>
@@ -218,6 +209,7 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -471,14 +463,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Solution2&#9;FILE&#9;file://E:/JAVAProject/LeetCode/src/algorithm/_200_Number_of_Islands/Solution2.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Lock&#9;PSI&#9;JAVA://java.util.concurrent.locks.Lock&#10;comparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Compara&#9;PSI&#9;JAVA://java.lang.Comparable&#10;executor&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;RecursiveTask&#9;PSI&#9;JAVA://java.util.concurrent.RecursiveTask&#10;Coun&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/CountDownLatch.java&#10;Conditio&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;ConcurrentSk&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentSkipListMap&#10;Semaphore&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/Semaphore.java&#10;Concu&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Sem&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;Reen&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/java/util/concurrent/locks/ReentrantLock.class&#10;CountDownLatch&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568110039756" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568216895058" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -503,7 +494,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -538,6 +529,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm._007_Reverse_Integer.Solution" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm._007_Reverse_Integer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm._005_Longest_Palindromic_Substring.Solution" />
       <module name="LeetCode" />
@@ -554,20 +559,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo1.demo2" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -611,18 +602,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.demo4" />
-      <item itemvalue="Application.demo2" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.HeapSort" />
       <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.demo4" />
-        <item itemvalue="Application.demo2" />
       </list>
     </recent_temporary>
   </component>
@@ -823,14 +814,10 @@
       <workItem from="1567906452940" duration="20012000" />
       <workItem from="1567997398731" duration="10946000" />
       <workItem from="1568035079603" duration="468000" />
-      <workItem from="1568092092863" duration="3080000" />
-    </task>
-    <task id="LOCAL-00016" summary="10.7每日算法">
-      <created>1538898414124</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1538898414124</updated>
+      <workItem from="1568092092863" duration="3151000" />
+      <workItem from="1568126834929" duration="1197000" />
+      <workItem from="1568169506457" duration="204000" />
+      <workItem from="1568214115694" duration="2102000" />
     </task>
     <task id="LOCAL-00017" summary="6.16">
       <created>1560700421525</created>
@@ -1168,11 +1155,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568094728201</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="9.10">
+      <created>1568110069910</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1568110069910</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="560649000" />
+    <option name="totallyTimeSpent" value="564223000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -1187,7 +1181,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33042896" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30630028" />
       <window_info id="Structure" order="1" weight="0.23324397" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1196,14 +1190,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.14730878" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24929178" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.31303117" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.24752475" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.45609066" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.45544556" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -1318,13 +1312,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="9.10" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_200_Number_of_Islands/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/_200_Number_of_Islands/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-70">
@@ -1659,7 +1646,14 @@
     <entry file="file://$PROJECT_DIR$/src/algorithm/_413_Arithmetic_Slices/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_007_Reverse_Integer/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
         </state>
       </provider>
     </entry>
