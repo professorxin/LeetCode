@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e669e2f7-868f-41ab-adc5-8863d23ae994" name="Default" comment="9.11">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/_135_Candy/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/_207_Course_Schedule/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/_240_Search_a_2D_Matrix_II/Solution.java" afterDir="false" />
+    <list default="true" id="e669e2f7-868f-41ab-adc5-8863d23ae994" name="Default" comment="9.13">
+      <change afterPath="$PROJECT_DIR$/images/_309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/_714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/_714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/_121_Best_Time_to_Buy_and_Sell_Stock/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_121_Best_Time_to_Buy_and_Sell_Stock/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/_123_Best_Time_to_Buy_and_Sell_Stock_III/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_123_Best_Time_to_Buy_and_Sell_Stock_III/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/_309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,9 +21,9 @@
     <session id="-1355368920">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="192" />
+          <entry key="project.closed" value="193" />
           <entry key="project.open.time.0" value="42" />
-          <entry key="project.open.time.1" value="15" />
+          <entry key="project.open.time.1" value="16" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.156" value="1" />
@@ -58,34 +61,35 @@
           <entry key="project.open.time.7" value="7" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="193" />
+          <entry key="project.opened" value="194" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
-          <entry key="java" value="925" />
+          <entry key="java" value="932" />
+          <entry key="jpg" value="1" />
           <entry key="png" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="Image" value="1" />
-          <entry key="JAVA" value="925" />
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="932" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="27" />
-          <entry key="java" value="30822" />
-          <entry key="txt" value="159" />
+          <entry key="java" value="30988" />
+          <entry key="txt" value="160" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="30822" />
-          <entry key="PLAIN_TEXT" value="186" />
+          <entry key="JAVA" value="30988" />
+          <entry key="PLAIN_TEXT" value="187" />
         </counts>
       </usages-collector>
     </session>
@@ -93,10 +97,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/_135_Candy/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/_123_Best_Time_to_Buy_and_Sell_Stock_III/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="308">
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -125,6 +129,7 @@
       <find>子</find>
       <find>序列</find>
       <find>旋转数组</find>
+      <find>股票</find>
     </findStrings>
     <dirStrings>
       <dir>E:\JAVAProject\LeetCode</dir>
@@ -136,10 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/_287_Find_the_Duplicate_Number/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/_695_Max_Area_of_Island/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/_547_Friend_Circles/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/_101_Symmetric_Tree/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_283_Move_Zeroes/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_295_Find_Median_from_Data_Stream/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_295_Find_Median_from_Data_Stream/MedianFinder.java" />
@@ -187,6 +188,10 @@
         <option value="$PROJECT_DIR$/src/algorithm/_240_Search_a_2D_Matrix_II/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_207_Course_Schedule/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_135_Candy/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_121_Best_Time_to_Buy_and_Sell_Stock/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_123_Best_Time_to_Buy_and_Sell_Stock_III/Solution.java" />
       </list>
     </option>
   </component>
@@ -216,6 +221,16 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -359,7 +374,14 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="_124_Binary_Tree_Maximum_Path_Sum" type="462c0819:PsiDirectoryNode" />
+              <item name="_122_Best_Time_to_Buy_and_Sell_Stock_II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="_123_Best_Time_to_Buy_and_Sell_Stock_III" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -464,22 +486,29 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="_309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="_322_Coin_Change" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Solution2&#9;FILE&#9;file://E:/JAVAProject/LeetCode/src/algorithm/_200_Number_of_Islands/Solution2.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Lock&#9;PSI&#9;JAVA://java.util.concurrent.locks.Lock&#10;comparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Compara&#9;PSI&#9;JAVA://java.lang.Comparable&#10;executor&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;RecursiveTask&#9;PSI&#9;JAVA://java.util.concurrent.RecursiveTask&#10;Coun&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/CountDownLatch.java&#10;Conditio&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;ConcurrentSk&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentSkipListMap&#10;Semaphore&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/Semaphore.java&#10;Concu&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Sem&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;Reen&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/java/util/concurrent/locks/ReentrantLock.class&#10;CountDownLatch&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568306178941" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568368263546" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -830,14 +859,8 @@
       <workItem from="1568214115694" duration="2336000" />
       <workItem from="1568272861380" duration="5392000" />
       <workItem from="1568291254281" duration="39000" />
-      <workItem from="1568296845691" duration="3102000" />
-    </task>
-    <task id="LOCAL-00018" summary="6.30">
-      <created>1561886786420</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1561886786420</updated>
+      <workItem from="1568296845691" duration="3133000" />
+      <workItem from="1568339273631" duration="7499000" />
     </task>
     <task id="LOCAL-00019" summary="7.6">
       <created>1562345512603</created>
@@ -1175,11 +1198,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568216972061</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="9.13">
+      <created>1568306798155</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1568306798155</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="572990000" />
+    <option name="totallyTimeSpent" value="580520000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -1192,8 +1222,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31836462" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3230563" />
       <window_info id="Structure" order="1" weight="0.23324397" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1296,7 +1327,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="8.4" />
     <MESSAGE value="8.6" />
     <MESSAGE value="8.7" />
     <MESSAGE value="8.8" />
@@ -1321,38 +1351,10 @@
     <MESSAGE value="9.9" />
     <MESSAGE value="9.10" />
     <MESSAGE value="9.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.11" />
+    <MESSAGE value="9.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.13" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_215_Kth_Largest_Element_in_an_Array/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_155_Min_Stack/MinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_104_Maximum_Depth_of_Binary_Tree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo1/demo1.java" />
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_041_First_Missing_Positive/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/_102_Binary_Tree_Level_Order_Traversal/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1498,13 +1500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_121_Best_Time_to_Buy_and_Sell_Stock/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1659,16 +1654,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/_135_Candy/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_121_Best_Time_to_Buy_and_Sell_Stock/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_122_Best_Time_to_Buy_and_Sell_Stock_II/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/_309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_123_Best_Time_to_Buy_and_Sell_Stock_III/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
