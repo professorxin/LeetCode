@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e669e2f7-868f-41ab-adc5-8863d23ae994" name="Default" comment="9.18">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/_131_Palindrome_Partitioning/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/_242_Valid_Anagram/Solution.java" afterDir="false" />
+    <list default="true" id="e669e2f7-868f-41ab-adc5-8863d23ae994" name="Default" comment="9.19">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/_462_Minimum_Moves_to_Equal_Array_Elements_II/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/_524_Longest_Word_in_Dictionary_through_Deleting/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/_540_Single_Element_in_a_Sorted_Array/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/_665_Non_decreasing_Array/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/_680_Valid_Palindrome_II/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/_725_Split_Linked_List_in_Parts/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/_003_Longest_Substring_Without_Repeating_Characters/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_003_Longest_Substring_Without_Repeating_Characters/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/_125_Valid_Palindrome/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/_125_Valid_Palindrome/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +23,8 @@
     <session id="-1355368920">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="202" />
-          <entry key="project.open.time.0" value="47" />
+          <entry key="project.closed" value="205" />
+          <entry key="project.open.time.0" value="48" />
           <entry key="project.open.time.1" value="17" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="2" />
@@ -32,7 +38,7 @@
           <entry key="project.open.time.22" value="4" />
           <entry key="project.open.time.23" value="12" />
           <entry key="project.open.time.24" value="12" />
-          <entry key="project.open.time.25" value="10" />
+          <entry key="project.open.time.25" value="11" />
           <entry key="project.open.time.26" value="14" />
           <entry key="project.open.time.27" value="7" />
           <entry key="project.open.time.28" value="3" />
@@ -45,7 +51,7 @@
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.41" value="2" />
           <entry key="project.open.time.42" value="2" />
           <entry key="project.open.time.44" value="3" />
@@ -58,13 +64,13 @@
           <entry key="project.open.time.7" value="7" />
           <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="204" />
+          <entry key="project.opened" value="207" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
-          <entry key="java" value="997" />
+          <entry key="java" value="1016" />
           <entry key="jpg" value="1" />
           <entry key="png" value="1" />
         </counts>
@@ -73,20 +79,20 @@
         <counts>
           <entry key="CLASS" value="4" />
           <entry key="Image" value="2" />
-          <entry key="JAVA" value="997" />
+          <entry key="JAVA" value="1016" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="27" />
-          <entry key="java" value="33405" />
-          <entry key="txt" value="165" />
+          <entry key="java" value="33684" />
+          <entry key="txt" value="166" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="33405" />
-          <entry key="PLAIN_TEXT" value="192" />
+          <entry key="JAVA" value="33684" />
+          <entry key="PLAIN_TEXT" value="193" />
         </counts>
       </usages-collector>
     </session>
@@ -94,10 +100,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/_131_Palindrome_Partitioning/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/_462_Minimum_Moves_to_Equal_Array_Elements_II/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -131,6 +137,7 @@
       <find>toBinaryString</find>
       <find>二分</find>
       <find>direction</find>
+      <find>findK</find>
     </findStrings>
     <dirStrings>
       <dir>E:\JAVAProject\LeetCode</dir>
@@ -142,14 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithm/_413_Arithmetic_Slices/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/_007_Reverse_Integer/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/_240_Search_a_2D_Matrix_II/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/_207_Course_Schedule/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/_135_Candy/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/_121_Best_Time_to_Buy_and_Sell_Stock/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/_309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/Solution.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/_714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_123_Best_Time_to_Buy_and_Sell_Stock_III/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_621_Task_Scheduler/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_301_Remove_Invalid_Parentheses/Solution.java" />
@@ -193,6 +192,14 @@
         <option value="$PROJECT_DIR$/src/algorithm/_179_Largest_Number/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_242_Valid_Anagram/Solution.java" />
         <option value="$PROJECT_DIR$/src/algorithm/_131_Palindrome_Partitioning/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_003_Longest_Substring_Without_Repeating_Characters/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_524_Longest_Word_in_Dictionary_through_Deleting/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_125_Valid_Palindrome/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_680_Valid_Palindrome_II/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_725_Split_Linked_List_in_Parts/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_665_Non_decreasing_Array/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_540_Single_Element_in_a_Sorted_Array/Solution.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/_462_Minimum_Moves_to_Equal_Array_Elements_II/Solution.java" />
       </list>
     </option>
   </component>
@@ -216,7 +223,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,6 +248,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="_002_Add_Two_Numbers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="_003_Longest_Substring_Without_Repeating_Characters" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -317,6 +331,13 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="_042_Trapping_Rain_Water" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="_043_Multiply_Strings" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -359,6 +380,20 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="_062_Unique_Paths" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="_064_Minimum_Path_Sum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="_070_Climbing_Stairs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -367,6 +402,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="_072_Edit_Distance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="_076_Minimum_Window_Substring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -388,6 +430,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="_093_Restore_IP_Addresses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="_095_Unique_Binary_Search_Trees_II" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -430,6 +479,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="_123_Best_Time_to_Buy_and_Sell_Stock_III" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="_125_Valid_Palindrome" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -548,6 +604,13 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="_287_Find_the_Duplicate_Number" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="_301_Remove_Invalid_Parentheses" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -613,19 +676,26 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="_697_Degree_of_an_Array" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="_763_Partition_Labels" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Solution2&#9;FILE&#9;file://E:/JAVAProject/LeetCode/src/algorithm/_200_Number_of_Islands/Solution2.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Lock&#9;PSI&#9;JAVA://java.util.concurrent.locks.Lock&#10;comparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Compara&#9;PSI&#9;JAVA://java.lang.Comparable&#10;executor&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;RecursiveTask&#9;PSI&#9;JAVA://java.util.concurrent.RecursiveTask&#10;Coun&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/CountDownLatch.java&#10;Conditio&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;Arrays&#9;PSI&#9;JAVA://java.util.Arrays&#10;ConcurrentSk&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentSkipListMap&#10;Semaphore&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/Semaphore.java&#10;Concu&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Sem&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;Reen&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar!/java/util/concurrent/locks/ReentrantLock.class&#10;CountDownLatch&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568821845894" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569072771008" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -987,14 +1057,10 @@
       <workItem from="1568768364871" duration="4117000" />
       <workItem from="1568789936774" duration="16000" />
       <workItem from="1568801246158" duration="6476000" />
-      <workItem from="1568818874573" duration="1534000" />
-    </task>
-    <task id="LOCAL-00033" summary="8.3">
-      <created>1564825483695</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1564825483695</updated>
+      <workItem from="1568818874573" duration="1592000" />
+      <workItem from="1568879407092" duration="402000" />
+      <workItem from="1568972613870" duration="3916000" />
+      <workItem from="1569052458595" duration="11674000" />
     </task>
     <task id="LOCAL-00034" summary="8.3">
       <created>1564836446943</created>
@@ -1332,11 +1398,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568814001440</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="9.19">
+      <created>1568823806348</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1568823806348</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="652522000" />
+    <option name="totallyTimeSpent" value="668572000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1349,8 +1422,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1554" height="836" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35762033" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2907754" />
       <window_info id="Structure" order="1" weight="0.23324397" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1364,9 +1438,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24752475" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2471591" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.4546742" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.4539007" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -1379,36 +1453,6 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32573727" />
-      <window_info id="Structure" order="1" weight="0.23324397" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24929178" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.31303117" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24752475" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.45544556" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1453,7 +1497,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="8.12" />
     <MESSAGE value="8.15" />
     <MESSAGE value="8.16" />
     <MESSAGE value="8.17" />
@@ -1478,121 +1521,10 @@
     <MESSAGE value="9.16" />
     <MESSAGE value="9.17" />
     <MESSAGE value="9.18" />
-    <option name="LAST_COMMIT_MESSAGE" value="9.18" />
+    <MESSAGE value="9.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="9.19" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_111_Minimum_Depth_of_Binary_Tree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_404_Sum_of_Left_Leaves/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_513_Find_Bottom_Left_Tree_Value/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_337_House_Robber_III/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_687_Longest_Univalue_Path/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_538_Convert_BST_to_Greater_Tree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_109_Convert_Sorted_List_to_Binary_Search_Tree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_653_Two_Sum_IV_Input_is_a_BST/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_530_Minimum_Absolute_Difference_in_BST/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_083_Remove_Duplicates_from_Sorted_List/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_019_Remove_Nth_Node_From_End_of_List/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-70">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_024_Swap_Nodes_in_Pairs/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_002_Add_Two_Numbers/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_234_Palindrome_Linked_List/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-422">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_347_Top_K_Frequent_Elements/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_445_Add_Two_Numbers_II/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1705,13 +1637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/_287_Find_the_Duplicate_Number/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/_378_Kth_Smallest_Element_in_a_Sorted_Matrix/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="458">
@@ -1793,9 +1718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="610">
           <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1817,9 +1739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1841,6 +1760,137 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_042_Trapping_Rain_Water/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_003_Longest_Substring_Without_Repeating_Characters/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <element signature="e#1494#1495#0" expanded="true" />
+            <element signature="e#1581#1582#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_287_Find_the_Duplicate_Number/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_076_Minimum_Window_Substring/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_062_Unique_Paths/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_064_Minimum_Path_Sum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_763_Partition_Labels/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1178#1179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_524_Longest_Word_in_Dictionary_through_Deleting/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_680_Valid_Palindrome_II/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_125_Valid_Palindrome/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_725_Split_Linked_List_in_Parts/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_096_Unique_Binary_Search_Trees/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_095_Unique_Binary_Search_Trees_II/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_665_Non_decreasing_Array/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_215_Kth_Largest_Element_in_an_Array/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_540_Single_Element_in_a_Sorted_Array/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/_462_Minimum_Moves_to_Equal_Array_Elements_II/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
         </state>
       </provider>
     </entry>

@@ -2,32 +2,10 @@ package algorithm._125_Valid_Palindrome;
 
 
 public class Solution {
-/*
-    //只考虑了英文字符串的回文，没有考虑符号的回文
-    public boolean isPalindrome(String s) {
-        if(s==null||s.length()==0) return true;
-        for(int i=0,end=s.length()-1;i<end;i++,end--){
-            while(!Character.isLetter(s.charAt(i))&&i<s.length()-1){
-                System.out.println(s.charAt(i)+"======");
-                i++;
-            }
-            while(!Character.isLetter(s.charAt(end))&&end>0){
-                System.out.println(s.charAt(end)+"-----");
-                end--;
-            }
-            if(Character.toLowerCase(s.charAt(i))==Character.toLowerCase(s.charAt(end))){
-                if(i==end||i==end-1)
-                    return true;
-            }else{
-                return false;
-            }
-        }
-        return false;
-    }*/
 
     //好像答案也没有考虑符号不同的问题，符号不同它仍然返回true
 
-    public boolean isPalindromeOther1(String s) {
+    public boolean isPalindromeOther(String s) {
         if (s.isEmpty()) {
             return true;
         }
@@ -51,6 +29,7 @@ public class Solution {
         }
         return true;
     }
+
 
     public boolean isPalindromeOther2(String s) {
         char[] c = s.toCharArray();

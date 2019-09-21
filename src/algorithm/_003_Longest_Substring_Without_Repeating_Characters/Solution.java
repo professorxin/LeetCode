@@ -13,6 +13,7 @@ public class Solution {
         //hashmap存储字符和出现位置的对应关系
         HashMap<Character, Integer> map = new HashMap<>();
         int max = 0;
+        //双指针i和j分别表示不重复子串的尾指针和首指针
         for (int i = 0, j = 0; i < s.length(); i++) {
             //判断是否之前已经加过这个key
             if (map.containsKey(s.charAt(i))) {
