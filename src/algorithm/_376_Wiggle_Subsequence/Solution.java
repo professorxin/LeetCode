@@ -11,5 +11,22 @@ public class Solution {
     （也可以不删除）元素来获得子序列，剩下的元素保持其原始顺序。*/
 
 
+    public int wiggleMaxLength(int[] nums) {
+        if (nums == null || nums.length == 0) {
+            return 0;
+        }
+        //初始状态
+        int up = 1, down = 1;
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] > nums[i - 1]) {
+                //状态转移
+                up = down + 1;
+            } else if (nums[i] < nums[i - 1]) {
+                //状态转移
+                down = up + 1;
+            }
+        }
+        return Math.max(up, down);
+    }
 
 }
