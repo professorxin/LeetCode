@@ -8,7 +8,7 @@ public class Solution {
     // 最后遍历数组如果没有存放匹配的正数，返回最小正数的值为该位置+1
     public int firstMissingPositive(int[] nums) {
         for (int i = 0; i < nums.length; i++) {
-            //如果没有满足上述匹配规则，就一直交换
+            //如果满足下述匹配规则，就一直交换
             while (nums[i] > 0 && nums[i] <= nums.length && nums[nums[i] - 1] != nums[i]) {
                 swap(nums, i, nums[i] - 1);
             }
