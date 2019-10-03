@@ -18,6 +18,7 @@ public class Solution {
         }
     }
 
+    //采用队列完成
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> result = new ArrayList<>();
         Queue<TreeNode> queue = new LinkedList<>();
@@ -44,5 +45,39 @@ public class Solution {
             }
         }
         return result;
+    }
+
+
+
+
+    //采用递归
+    public List<List<Integer>> zigzagLevelOrder1(TreeNode root) {
+        List<List<Integer>> res = new ArrayList<>();
+        helper(res,root,0);
+        return res;
+    }
+
+    private void helper(List<List<Integer>> res,TreeNode root,int level){
+        if(root == null){
+            return;
+        }
+        //每一层都会创建一个集合保存该层元素
+        if(res.size() == level){
+            List<Integer> newLevel = new ArrayList<>();
+            res.add(newLevel);
+        }
+        //取出当前层元素
+        List<Integer> list = res.get(level);
+        //如果是偶数层，从左到右直接添加，形成正序
+        if(level % 2 == 0){
+            list.add(root.val);
+        }else{
+            //如果是奇数层，也是从左到右添加，只是每次添加到第0号元素位置，其他的元素就都要右移一位，从而形成逆序
+            list.add(0,root.val);
+        }
+        //先加左边的
+        helper(res,root.left,level+1);
+        //再加右边的
+        helper(res,root.right,level+1);
     }
 }
