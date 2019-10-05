@@ -19,7 +19,7 @@ public class Solution {
 
     public TreeNode convertBST(TreeNode root) {
         convert(root);
-        return  root;
+        return root;
     }
 
     //右根左，中序遍历反过来

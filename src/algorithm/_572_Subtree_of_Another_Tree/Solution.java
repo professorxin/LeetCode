@@ -26,12 +26,15 @@ public class Solution {
 
     //该结点开始判断树结构是否相同
     public boolean isSubtreeWithRoot(TreeNode s, TreeNode t) {
+        //s和t都为空，表示判断完了
         if (s == null && t == null) {
             return true;
         }
+        //s和t只有一个为空，证明不能完全匹配
         if (s == null || t == null) {
             return false;
         }
+        //s和t都不为空
         if (s.val != t.val) {
             return false;
         }

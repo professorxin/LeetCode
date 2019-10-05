@@ -17,8 +17,6 @@ public class Solution {
     并且它们的每个节点只能存储一位数字。
     也就是说第一位是个位，第二位是十位，以此类推*/
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode c1 = l1;
-        ListNode c2 = l2;
         ListNode head = new ListNode(0);
         ListNode d = head;
         int sum = 0;
