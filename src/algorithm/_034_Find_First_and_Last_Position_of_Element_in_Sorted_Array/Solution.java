@@ -17,6 +17,7 @@ public class Solution {
 
     //二分查找，稍微有变形
     private int firstGreaterEqual(int[] nums, int target) {
+        //注意这里的high为nums.length
         int low = 0, high = nums.length;
         while (low < high) {
             int mid = low + ((high - low) >> 1);

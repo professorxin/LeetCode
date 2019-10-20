@@ -45,7 +45,4 @@ public class Solution {
         return start.next;
     }
 
-    public static void main(String[] args) {
-
-    }
 }

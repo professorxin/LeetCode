@@ -14,6 +14,7 @@ public class Solution {
             if (sum > 0) {
                 sum += nums[i];
             } else {
+                //如果sum小于等于0，重新开始设值
                 sum = nums[i];
             }
             max = Math.max(max, sum);

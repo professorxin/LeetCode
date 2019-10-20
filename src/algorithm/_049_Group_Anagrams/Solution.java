@@ -8,6 +8,7 @@ import java.util.List;
 public class Solution {
 
     /*给一字符串数组，字符串组成字母相同的分到一组*/
+
     public List<List<String>> groupAnagrams(String[] strs) {
         if (strs == null || strs.length == 0) {
             return new ArrayList<List<String>>();

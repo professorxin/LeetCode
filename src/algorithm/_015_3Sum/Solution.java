@@ -3,56 +3,11 @@ package algorithm._015_3Sum;
 import java.util.*;
 
 public class Solution {
-    //比较暴力
-    public List<List<Integer>> threeSumOther1(int[] nums) {
-        List<List<Integer>> res = new ArrayList<List<Integer>>();
-        for (int i = 0; i < nums.length; i++) {
-            for (int j = i + 1; j < nums.length; j++)
-                for (int k = j + 1; k < nums.length; k++) {
-                    if (nums[i] + nums[j] + nums[k] == 0) {
-                        List<Integer> temp = new ArrayList<Integer>();
-                        temp.add(nums[i]);
-                        temp.add(nums[j]);
-                        temp.add(nums[k]);
-                        //判断结果中是否已经有 temp 。
-                        if (isInList(res, temp)) {
-                            continue;
-                        }
-                        res.add(temp);
-                    }
-                }
-        }
-        return res;
-
-    }
-
-    public boolean isInList(List<List<Integer>> l, List<Integer> a) {
-        for (int i = 0; i < l.size(); i++) {
-            //判断两个 List 是否相同
-            if (isSame(l.get(i), a)) {
-                return true;
-            }
-        }
-        return false;
-    }
-
-    public boolean isSame(List<Integer> a, List<Integer> b) {
-        int count = 0;
-        Collections.sort(a);
-        Collections.sort(b);
-        //排序后判断每个元素是否对应相等
-        for (int i = 0; i < a.size(); i++) {
-            if (a.get(i) != b.get(i)) {
-                return false;
-            }
-        }
-        return true;
-    }
 
 
     /*找出三个数字相加为0的所有组合*/
-    //更好的解法
-    public List<List<Integer>> threeSumOther2(int[] num) {
+
+    public List<List<Integer>> threeSum(int[] num) {
         Arrays.sort(num); //排序,这是很重要的一步
         List<List<Integer>> res = new LinkedList<>();
         for (int i = 0; i < num.length - 2; i++) {

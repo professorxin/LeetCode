@@ -29,6 +29,7 @@ public class Solution {
     }
 
 
+
     //使用数组
     public int lengthOfLongestSubstring1(String s) {
         if (s == null || s.length() == 0) {
