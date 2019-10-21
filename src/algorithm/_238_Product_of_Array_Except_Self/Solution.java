@@ -2,7 +2,7 @@ package algorithm._238_Product_of_Array_Except_Self;
 
 public class Solution {
 
-    /*给定一个整数数组，输出除去该位置元素的其他元素的乘积的数组*/
+    /*给定一个整数数组，输出除去该位置元素的其他元素的乘积的数组,时间复杂度要求O(n)*/
     /*
     Numbers:     2    3    4     5
     Lefts:       1    2  2*3 2*3*4

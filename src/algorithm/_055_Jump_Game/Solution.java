@@ -2,7 +2,9 @@ package algorithm._055_Jump_Game;
 
 public class Solution {
 
-    /*给定一个数组，初始定位在第一个索引，数组中的每个元素值代表你能跳到的最大长度，判断是否能跳到最后一个位置*/
+    /*给定一个数组，初始定位在第一个索引，数组中的每个元素值代表你能跳到的最大长度，
+    判断是否能跳到最后一个位置*/
+
     public boolean canJump(int[] nums) {
         //能跳到的最大位置
         int max = 0;
@@ -17,7 +19,4 @@ public class Solution {
         return true;
     }
 
-    public static void main(String[] args) {
-        System.out.println(new Solution().canJump(new int[]{3,3,1,0,4}));
-    }
 }

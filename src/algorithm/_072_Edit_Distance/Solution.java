@@ -2,6 +2,14 @@ package algorithm._072_Edit_Distance;
 
 public class Solution {
 
+    /*给定两个单词 word1 和 word2，计算出将 word1 转换成 word2 所使用的最少操作数 。
+    你可以对一个单词进行如下三种操作：
+        插入一个字符
+        删除一个字符
+        替换一个字符
+    */
+
+
     //定义一个dp二维数组，表示第一个字符串的前i位和第二个字符串的前j位所需要的操作的次数
     public int minDistance(String word1, String word2) {
         if (word1 == null || word2 == null) return 0;

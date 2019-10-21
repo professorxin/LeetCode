@@ -20,7 +20,5 @@ public class Solution {
         return gi;
     }
 
-    public static void main(String[] args) {
-        System.out.println(new Solution().findContentChildren(new int[]{2}, new int[]{1, 1}));
-    }
+
 }

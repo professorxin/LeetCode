@@ -14,9 +14,11 @@ public class Solution {
         //最小的价格
         int min = prices[0];
         for (int i = 1; i < n; i++) {
+            //比最小价格小就更新最小价格
             if (prices[i] < min) {
                 min = prices[i];
             } else {
+                //比最小价格大就计算利润
                 max = Math.max(max, prices[i] - min);
             }
         }

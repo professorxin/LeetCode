@@ -4,6 +4,7 @@ public class Solution {
 
 
     /*给定一个整型数组，找出数组内连续子数组乘积的最大值*/
+
     public int maxProduct(int[] nums) {
         if (nums == null || nums.length == 0) {
             return 0;
