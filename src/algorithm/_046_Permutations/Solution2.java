@@ -33,4 +33,9 @@ public class Solution2 {
             }
         }
     }
+
+
+    public static void main(String[] args) {
+        System.out.println(new Solution2().permute(new int[]{1,2,3}));
+    }
 }

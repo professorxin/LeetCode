@@ -6,6 +6,7 @@ import java.util.List;
 public class Solution {
 
     /*给定一个数组，通过选取数组中的数字去组成目标数，数字可重复使用，找出所有的组合*/
+
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>> combinations = new ArrayList<>();
         backtrack(combinations, new ArrayList<Integer>(), 0, target, candidates);
@@ -34,6 +35,6 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        new Solution().combinationSum(new int[]{2, 3, 6, 7}, 7);
+        System.out.println(new Solution().combinationSum(new int[]{10,1,2,7,6,1,5}, 8));
     }
 }

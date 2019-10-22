@@ -13,6 +13,7 @@ public class Solution {
     /*思路和第39题类似，只是数字不可重复使用，每次添加到最终结果时判断一下是否已经存在*/
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
         List<List<Integer>> combinations = new ArrayList<>();
+        //排序是为了防止组合重复
         Arrays.sort(candidates);
         backtrack(combinations, new ArrayList<Integer>(), 0, target, candidates);
         return combinations;

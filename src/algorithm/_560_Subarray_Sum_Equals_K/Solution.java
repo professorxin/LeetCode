@@ -8,8 +8,6 @@ public class Solution {
 
 
 
-    /*暴力方法就是两个for循环去遍历数字让其构成k*/
-
     /*采用的方式是用hashmap保存的key是前面数字相加的和，value是该和出现的次数。将该问题转化为前面数字的和减去k后
     的数字和的个数*/
     public int subarraySum(int[] nums, int k) {

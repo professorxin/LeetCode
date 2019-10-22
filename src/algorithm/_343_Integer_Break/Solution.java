@@ -3,6 +3,7 @@ package algorithm._343_Integer_Break;
 public class Solution {
 
     //分割整数为至少两个正数，算出分割后的数的最大乘积
+
     public int integerBreak(int n) {
         int[] dp = new int[n + 1];
         dp[1] = 1;

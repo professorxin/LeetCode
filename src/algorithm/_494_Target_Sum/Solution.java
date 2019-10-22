@@ -35,7 +35,7 @@ public class Solution {
         int W = (sum + S) / 2;
         int[] dp = new int[W + 1];
         dp[0] = 1;
-        //整个遍历先把dp数组的元素从左到右慢慢填充，直到最后的dp数组的最后一个元素表示和为W的子集数量
+        //01背包
         for (int num : nums) {
             for (int i = W; i >= num; i--) {
                 dp[i] = dp[i] + dp[i - num];
@@ -52,7 +52,4 @@ public class Solution {
         return sum;
     }
 
-    public static void main(String args[]){
-        new Solution().findTargetSumWays1(new int[]{2,5,4}, 3);
-    }
 }
