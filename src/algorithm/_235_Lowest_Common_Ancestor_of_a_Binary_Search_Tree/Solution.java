@@ -13,6 +13,7 @@ public class Solution {
     }
 
     /*二叉查找树的两个结点的最近公共祖先*/
+
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         //如果两个结点都在左边的情况下
         if (root.val > p.val && root.val > q.val) {
