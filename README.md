@@ -6,7 +6,7 @@
 |  2   |                     [Add Two Numbers](https://github.com/professorxin/LeetCode/blob/master/src/algorithm/_002_Add_Two_Numbers/Solution.java)                      |
 |  3   |      [Longest Substring Without Repeating Characters](https://github.com/professorxin/LeetCode/blob/master/src/algorithm/_003_Longest_Substring_Without_Repeating_Characters/Solution.java)      |
 |  4   | [Median of Two Sorted Arrays](https://github.com/professorxin/LeetCode/blob/master/src/algorithm/_004_Median_of_Two_Sorted_Arrays/Solution.java) |
-|  5   | [Longest Palindromic Substring](https://github.com/professorxin/LeetCode/blob/master/src/algorithm/_005_Longest_Palindromic_Substring/Solution.javag) |
+|  5   | [Longest Palindromic Substring](https://github.com/professorxin/LeetCode/blob/master/src/algorithm/_005_Longest_Palindromic_Substring/Solution.java) |
 |  7   | [Reverse Integer](https://github.com/professorxin/LeetCode/blob/master/src/algorithm/_007_Reverse_Integer/Solution.java) |
 |  8   | [String to Integer (atoi)](https://github.com/professorxin/LeetCode/blob/master/src/algorithm/_008_String_to_Integer/Solution.java) |
 |  9   | [Palindrome Number](https://github.com/professorxin/LeetCode/blob/master/src/algorithm/_009_Palindrome_Number/Solution.java) |
